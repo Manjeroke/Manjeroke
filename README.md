@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Manjeroke
 - 👀 I’m interested in QA Automation
 - 🌱 I’m currently learning Automation with Selenium on Java
-- 📫 How to reach me ...
 
 <!---
 Manjeroke/Manjeroke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
